@@ -18,7 +18,10 @@ The output will be a WordSearchGrid represents an array of the characters making
 The below are example grids in array form and example word list in array form:
 
 exGrid1'1 = [ "HAGNIRTSH" , "SACAGETAK", "GCSTACKEL","MGHKMILKI","EKNLETGCN","TNIRTLETE","IRAAHCLSR","MAMROSAGD","GIZKDDNRG" ] 
+
 exWords1'1 = [ "HASKELL","STRING","STACK","MAIN","METHOD"]
 
+
 exGrid1'2 = ["ROBREUMBR","AURPEPSAN","UNLALMSEE","YGAUNPYYP","NLMNBGENA","NBLEALEOR","ALRYPBBLG","NREPBEBEP","YGAYAROMR"]
+
 exWords1'2 = [ "BANANA", "ORANGE", "MELON", "RASPBERRY","APPLE","PLUM","GRAPE" ]
