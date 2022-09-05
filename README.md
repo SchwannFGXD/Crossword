@@ -1,4 +1,4 @@
-# Crossword puzzle solver and creator
+# Wordsearch puzzle solver and creator
 
 Use function solveWordSearch which takes as parameters [ String ] and WordSearchGrid where [ String ] is an array of strings 
 representing the words that you want in the wordsearch and WordSearchGrid represents an array of the characters making up the grid.
